@@ -1,6 +1,6 @@
 ## AJS-TypeScript
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/qdmac5evr8ra61fa?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-typescript)
 ---
 # Домашнее задание к лекции «TypeScript»
 
